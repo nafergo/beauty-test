@@ -1,0 +1,77 @@
+/*homepage*/
+.post-preview .post-title {font-size: 1.25rem;}
+.post-preview .post-subtitle {font-size: 1rem;}
+.post-preview .post-meta {font-size: 1rem;}
+
+.blog-tags{text-transform: uppercase;}
+.linked-section{text-transform: uppercase;}
+.tag-btn{text-transform: uppercase; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;}
+
+.badge {
+text-transform: uppercase;
+  background-color: #dbdee1;
+  display: inline-block;
+  padding: .25em .4em;
+  font-size: 75%;
+  font-weight: 700;
+  line-height: 1;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: baseline;
+  border-radius: .25rem;
+}
+.badge:hover {background-color: #ebebec; color: #007bff;}
+
+.blog-tags a:hover {
+   border: 1px solid transparent;
+border-color: #ebebec;
+color: #007bff;
+}
+.page-subheading {font-weight: 400;}
+.post-subheading {font-weight: 300!important; font-size: 1.2rem!important;}
+
+td a {
+  text-transform: uppercase;
+    background-color: #dbdee1;
+    display: inline-block;
+    padding: .25em .4em;
+    font-size: 75%;
+    font-weight: 700;
+    line-height: 1;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: .25rem;
+  }
+
+ 
+td a:hover {background-color: #ebebec; color: #007bff;}
+body {font-family:  'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 1rem;}
+.post-preview .post-meta, .post-heading .post-meta {font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 0.9375rem;}
+table tr td :first-child, table tr td :last-child {margin-bottom: 0.3125rem!important;}
+.blog-post :first-child {margin-top: 0.3125rem;}
+table tr td :first-child {margin-top: 0.3125rem;}
+.header-post {background-color: #ebebec;}
+
+.btn-light:hover {color: #007bff;}
+
+.btn-sq-lg {width: 150px !important; height: 150px !important;}
+.btn-sq {width: 100px !important; height: 100px !important; font-size: 10px;}
+.btn-sq-sm {width: 50px !important; height: 50px !important; font-size: 10px;}
+.btn-sq-xs {width: 25px !important; height: 25px !important; padding:2px;}
+
+.btn-sq { background-color: #fafafa!important;}
+.btn-sq:hover {color: #007bff!important; background-color: #fff!important;}
+
+
+.blog-post h3 {text-transform: uppercase;}
+
+.filter-svg{filter: invert(24%) sepia(0%) saturate(0%) hue-rotate(178deg) brightness(96%) contrast(90%);}
+.filter-svg:hover{filter: invert(29%) sepia(75%) saturate(3215%) hue-rotate(202deg) brightness(105%) contrast(107%);}
+.aboutus_logo{width: 2em}
+
+
+#nav-search-input{border-radius: .5rem;}
+
+.card {background-color: #fafafa!important;}
+
