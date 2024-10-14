@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Portuguese Archaeology Database teste
+title: Portuguese Archaeology Database
 subtitle: Georeferenced archaeological sites in Portugal
 date: 13-01-2024
 cover-img: 
